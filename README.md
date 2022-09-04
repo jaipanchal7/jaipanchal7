@@ -13,7 +13,9 @@
 
 - 💬 Ask me about Java and tech related stuff.
 
-- 📫 How to reach me : &emsp; <a href="mailto:jaipanchal100@gmail.com" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" alt="jaipanchal70" height="30" width="40" /></a> &ensp; <a href="https://twitter.com/jaipanchal70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaipanchal70" height="30" width="40" /></a>
+- 📫 How to reach me : &emsp; <a href="https://www.linkedin.com/in/jaipanchal7/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="jaipanchal7" height="30" width="40" /></a> &nbsp;
+<a href="https://twitter.com/jaipanchal70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaipanchal70" height="30" width="40" /></a> &emsp;
+<a href="mailto:jaipanchal100@gmail.com" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" alt="jaipanchal70" height="30" width="40" /></a>
 
 - <a href="https://drive.google.com/file/d/11_AY0JpgjG4Bm9X32hwKoXK-wMUKY-6z/view?usp=sharing">📄Resume</a>
 

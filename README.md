@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Open source and personal projects.
 
-- 🌱 I’m currently learning DSA and improving SQL skills.
+- 🌱 I’m currently learning DSA, Spring Boot and improving SQL skills.
 
 - 👯 I’m looking to collaborate on Java.
 

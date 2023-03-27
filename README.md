@@ -17,7 +17,7 @@
 <a href="https://twitter.com/jaipanchal70" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="jaipanchal70" height="30" width="40" /></a> &emsp;
 <a href="mailto:jaipanchal100@gmail.com" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/g/37/gmail-icon.svg" alt="jaipanchal70" height="30" width="40" /></a>
 
-- <a href="https://drive.google.com/file/d/1W5xCTipj8SsdJZMoSsw3tpMHMoaMuXgJ/view?usp=share_link">📄Resume</a>
+- <a href="https://drive.google.com/file/d/1dmeJ_V0iWCBNOUdb0Jk5XkV0gZal-JLz/view?usp=share_link">📄Resume</a>
 
 <h1 dir="auto"><a id="user-content-tech-stack" class="anchor" aria-hidden="true" href="#tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">👨‍💻</g-emoji>Languages and Tools : </h1>
 
@@ -25,12 +25,13 @@
 <!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/j/86/java.svg" alt="java" width="40" height="40"/> </a>
-<!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> -->
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/c/1/c-plus-plus.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/d/41/docker.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/l/21/linux-tux.svg" alt="linux" width="40" height="40"/> </a>

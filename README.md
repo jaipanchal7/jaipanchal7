@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning DSA, Spring Boot and improving SQL skills.
 
-- 👯 I’m looking to collaborate on Java.
+- 👯 I’m looking to collaborate on Java. 
 
 - 💬 Ask me about Java and tech related stuff.
 <!-- <a href="https://twitter.com/jaipanchal70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaipanchal70" height="30" width="40" /></a> &emsp; -->
